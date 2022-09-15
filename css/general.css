@@ -1,0 +1,83 @@
+h1{
+	font-size: 34px;
+	color: limegreen;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+
+}
+
+h4{
+	font-size: 15px;
+	font-family: 'DM Sans', sans-serif;
+	font-weight: 400;
+	color: slategray;
+}
+
+p{
+	font-size: 16px;
+	width: 960px;
+	font-family: 'DM Sans', sans-serif;
+	font-weight: 400;
+}
+
+hr{
+	width: 960px;
+}
+
+a{
+	text-decoration: none;
+	color: hotpink;
+}
+
+a:hover{ /*pseu-selector with hover state*/
+	text-decoration: underline;
+}
+
+.em-quotes{
+	font-style: italic;
+}
+
+.bold-names{
+	font-weight: 700;
+	color: limegreen;
+}
+
+.bold-intro{
+	font-weight: 700;
+}
+
+.pull-quote{
+	font-size: 35px;
+	color: limegreen;
+	font-family: 'DM Sans', sans-serif;
+	width: 960px;
+	font-weight: 700;
+}
+
+.credit{
+	font-size: 12px;
+	font-style:  italic;
+}
+
+.pull-quote-credit{
+	font-size: 20px;
+	font-style:  italic;
+	color: limegreen;
+}
+
+.social-media{
+	width: 20px;
+	text-align: right;
+}
+
+.copyright{
+	font-size: 10px;
+}
+
+.pullquote-border{
+	display: inline-block;
+	border-style: solid;
+	border-color: limegreen;
+	border-right-style: none;
+	border-left-style:  none;
+}
